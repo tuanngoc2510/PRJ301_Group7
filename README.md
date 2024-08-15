@@ -42,3 +42,6 @@ Nguyễn Hoàng Gia Thịnh
 
 ![](Img/Customermanagement.png)
 *Customer management (admin only)*
+
+![](Img/Database.jpg)
+*Database
