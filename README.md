@@ -16,16 +16,16 @@ Nguyễn Hoàng Gia Thịnh
 ![](Img/HomePage.png)
 *Home page*
 
-![](Img/All-ProductPage.jpg)
+![](Img/ProductDetail.png)
 *All product page*
 
-![](Img/Product-DetailPage.jpg)
+![](Img/AllProduct.jpg)
 *Product detail page*
 
-![](Img/CartPage.png)
+![](Img/ShoppingCart.png)
 *Cart page*
 
-![](Img/PaymentPage.png)
+![](Img/CheckOut.png)
 *Payment page*
 
 ![](Img/Contact.png)
