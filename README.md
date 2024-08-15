@@ -17,10 +17,10 @@ Nguyễn Hoàng Gia Thịnh
 *Home page*
 
 ![](Img/ProductDetail.png)
-*All product page*
+*Product detail page*
 
 ![](Img/AllProduct.jpg)
-*Product detail page*
+*All Product page
 
 ![](Img/ShoppingCart.png)
 *Cart page*
